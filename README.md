@@ -8,7 +8,6 @@ Gameplay Engineer & Founder of Rising Devils
 *   ✉️  You can contact me at [adrianguerreroalvarez@gmail.com](mailto:adrianguerreroalvarez@gmail.com)
 *   🧠  I'm learning Unity and Game Design
 *   🤝  I'm open to collaborating on interesting games
-*
 *   <a href="https://www.github.com/adriguerre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/adriguerre?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
