@@ -47,7 +47,3 @@ Gameplay Engineer & Founder of Rising Devils
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adriguerre&stroke=10b981&background=1c1917&ring=10b981&fire=10b981&currStreakNum=10b981&currStreakLabel=10b981&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" />
 </a>
 
-
-<a href="https://github.com/adriguerre" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriguerre&langs_count=10&title_color=10b981&text_color=10b981&icon_color=10b981&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
