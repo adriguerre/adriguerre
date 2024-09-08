@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Gameplay Engineer & Founder of Rising Devils
 --------------------------------------------
 
-*   🌍  I'm based in Málaga
-*   ✉️  You can contact me at [adrianguerreroalvarez@gmail.com](mailto:adrianguerreroalvarez@gmail.com)
-*   🧠  I'm learning Unity and Game Design
-*   🤝  I'm open to collaborating on interesting games
+*   🌍  Based in Málaga, Spain
+*   ✉️  Feel free to contact me at: [adrianguerreroalvarez@gmail.com](mailto:adrianguerreroalvarez@gmail.com)
+*   🧠  Currently learning Unity and Game Design
+*   🤝  Open to collaborating on innovative game projects
 *   <a href="https://www.github.com/adriguerre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/adriguerre?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
