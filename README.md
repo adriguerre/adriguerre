@@ -7,7 +7,8 @@ Gameplay Engineer & Founder of Rising Devils
 *   🌍  Based in Málaga, Spain
 *   ✉️  Feel free to contact me at: [adrianguerreroalvarez@gmail.com](mailto:adrianguerreroalvarez@gmail.com)
 *   🧠  Currently learning Unity and Game Design
-*   🤝  Open to collaborating on innovative game projects
+*   🖥️  [Portfolio](https://adrianguerrero.carrd.co/) 
+*   🤝  Open to collaborating on innovative game projects 
 *   <a href="https://www.github.com/adriguerre" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/adriguerre?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
